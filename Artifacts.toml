@@ -1,0 +1,162 @@
+[[GRCore]]
+arch = "aarch64"
+git-tree-sha1 = "63c22cc29e03b5c8a02f60259d46b5ab3ee85801"
+os = "macos"
+
+    [[GRCore.download]]
+    sha256 = "10cb97291b735ea7a5ae53085b86b56fd66711016ca504d1f7c443f765513af8"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.aarch64-apple-darwin.tar.gz"
+[[GRCore]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbc874d743a3636064129725d42ec1847bf82ce0"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "412b698776b522c9b7361abc696d2b6c1a46c5ccba7bbcc27d550b1515c90871"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.aarch64-linux-gnu-cxx03.tar.gz"
+[[GRCore]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f9cfe01c45d98847677d246edfc970a9f259b5d"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "36ab9c53ef91d4143fc71d60017c6d5cba3d09cb73ea24c4ae7f2acb1cf1098b"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.aarch64-linux-gnu-cxx11.tar.gz"
+[[GRCore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a1f5a598e2235ad219490a4f4fb146e69ddd0fe8"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "6563ee05b4ee7c7cea0551ae19e7882eab29428a1d70c1c1c45a8cf60ccc14bc"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GRCore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7fe63f8af5ed46555c73b8984e3641f2016c35a"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "c2e8149bc6fa3368c49840cc35be4b7435b98887ee82b908421f8390d436d29a"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GRCore]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0af552247a78453c5d418e0c308337c634ff615a"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "c97b7b97bb85fd511705f4b8a47768e0f747729b7471fecf739aa3a87618c6f9"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.i686-linux-gnu-cxx03.tar.gz"
+[[GRCore]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc93da57001de530a0c39383cef9a6d83e85ff0b"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "b6ae1978b140c58aa725ab7bc15ff0a88a4114c3b43fd6c366e3addd1114e2e2"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.i686-linux-gnu-cxx11.tar.gz"
+[[GRCore]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81afc44bb106aa67a9fbc6f1f254f45da383b3ef"
+os = "windows"
+
+    [[GRCore.download]]
+    sha256 = "cdea4f01cfbdc8bb52c17ba822d583c2a411d3353f9eeba67d3e5ea7e94d2ef1"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.i686-w64-mingw32-cxx03.tar.gz"
+[[GRCore]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e68315e3cfcfb3a1460bd28f7afe5eec849c695e"
+os = "windows"
+
+    [[GRCore.download]]
+    sha256 = "74b71d64789b6f0d0b2e37da0d5e5e03e0966bbcb910dd5403aa2f46f7d73d97"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.i686-w64-mingw32-cxx11.tar.gz"
+[[GRCore]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f79909ed30348792eea8fc1d8a011fcbb83f7446"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "edbe24f74f21b5cd5ad45a5eea1cd9d7745766f839d9c4a2c0ea68cf51d24231"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GRCore]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d461136717b0ac9348e1a7b1bbca9088b0d2792"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "4f31647d0a125a66b2d7e2eda01046ecd578a833c8d7a91a2dcb3c54336a0676"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+git-tree-sha1 = "baa66f10057031e6f9fc3677bee948fcaf456953"
+os = "macos"
+
+    [[GRCore.download]]
+    sha256 = "a6251806cc762b087632550abb492aec13511abb99190f8ebebe23ee71535f8e"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-apple-darwin.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "101f0b1a86056d6d761a18f5aba378cec9b80074"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "6c45fe60976c09db74b42e402ad78bb535e2de031e855bf2cc904f94f32afc80"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "153276040c95a7d577939cf798b93bf886efcb02"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "6424c8c0660a209e26432dd8bd6fe4c88152d63e09232a12c51165b24d170b52"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+git-tree-sha1 = "fadd0d5b27fddd8b65bb03962ab7a3d2ec911567"
+os = "freebsd"
+
+    [[GRCore.download]]
+    sha256 = "19f28d3669289351f9d62c8f0b1f0a5c32304ff8ebad55f89ac752a182eb6196"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-unknown-freebsd.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50e6ad019f99b1c02fc151a8c3db50d8f2dbb393"
+os = "windows"
+
+    [[GRCore.download]]
+    sha256 = "d5c2fc1583b312694f6fb6742363967994e91f624284aea2efeebd4b79573b38"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3923992ff9077782f94c121ab7649c4f71e1bbff"
+os = "windows"
+
+    [[GRCore.download]]
+    sha256 = "21dcd718fa76dd8a838263ee76368d840bd929e5f937ad98853eb2c6fd1118fa"
+    url = "https://github.com/JuliaBinaryWrappers/GRCore_jll.jl/releases/download/GRCore-v0.72.7+0/GRCore.v0.72.7.x86_64-w64-mingw32-cxx11.tar.gz"
